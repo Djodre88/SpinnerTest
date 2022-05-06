@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpinnerTest</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="Categories">
+        <item>Perfume</item>
+        <item>Clothing</item>
+    </string-array>
+
+</resources>
